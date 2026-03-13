@@ -1,6 +1,6 @@
 # Results | scoreboard
 
-## recent race losers
+## recent race Winners
 
 - GP Australië : George Russell (UK) (Mercedes)
 
